@@ -2,9 +2,8 @@
 using namespace std;
 
 int abc() {
-	return 3;
+	return 114;
 }
-
 
 //Hi i am jackey,cyka blyat
 int main()
