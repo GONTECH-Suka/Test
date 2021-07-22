@@ -12,6 +12,10 @@ int abc() {
 	return 114;
 }
 
+int def() {
+	return 514
+}
+
 //Hi i am jackey,cyka blyat
 //I'm back again.
 int main()
