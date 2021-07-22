@@ -4,4 +4,5 @@ int main()
 {
 	cout << "aaa";
 	cout << "bbb";
+	cout << "ddd";
 }
