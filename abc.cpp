@@ -5,6 +5,8 @@ int abc() {
 	return 3;
 }
 
+
+//Hi i am jackey,cyka blyat
 int main()
 {
 	cout << "aaa";
