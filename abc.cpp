@@ -1,5 +1,9 @@
 #include<iostream>
 using namespace std;
+class book {
+public:
+	book() = default;
+};
 
 int abc() {
 	return 114;
