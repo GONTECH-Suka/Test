@@ -12,4 +12,5 @@ int main()
 	cout << "bbb";
 	cout << "ccc";
 	cout << "ddd";
+	cout << "wdnmd";
 }
