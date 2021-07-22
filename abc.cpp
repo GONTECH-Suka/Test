@@ -1,5 +1,8 @@
 #include<iostream>
 using namespace std;
+enum label{
+	a, b, c;
+};
 class book {
 public:
 	book() = default;
@@ -10,6 +13,7 @@ int abc() {
 }
 
 //Hi i am jackey,cyka blyat
+//I'm back again.
 int main()
 {
 	cout << "aaa";
